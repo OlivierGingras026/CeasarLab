@@ -1,0 +1,11 @@
+# build outputs
+bin/
+obj/
+# user-specific
+*.user
+*.suo
+.vs/
+# packages
+**/packages/
+# logs
+*.log
